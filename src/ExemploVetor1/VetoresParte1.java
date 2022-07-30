@@ -1,4 +1,4 @@
-package ExemploVetor;
+package ExemploVetor1;
 
 import java.util.Locale;
 import java.util.Scanner;
